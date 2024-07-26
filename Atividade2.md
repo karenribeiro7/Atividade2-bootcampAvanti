@@ -1,4 +1,4 @@
-# Atividade 1 - Bootcamp Avanti - Machine Learning
+# Atividade 2 - Bootcamp Avanti - Machine Learning
 ### Aluna: Karen Ribeiro
 
 
